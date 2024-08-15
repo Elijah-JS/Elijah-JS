@@ -1,7 +1,7 @@
 
 # Hi, I’m @Elijah-JS 👋
 
-I’m a Front-End Engineer with a strong foundation in building interactive and responsive web applications. My expertise spans across a full stack of web technologies including HTML, CSS, JavaScript, React, and Bootstrap. Additionally, I have experience with Python and Flask, which has broadened my understanding of backend development.
+I’m a Front-End Engineer with a strong foundation in building interactive and responsive web applications. My expertise spans a full stack of web technologies including HTML, CSS, JavaScript, React, and Bootstrap. I also have experience with Python and Flask, enhancing my understanding of backend development. Additionally, I have a solid grasp of basic web design principles and am skilled in utilizing Figma for wireframing and prototyping, which allows me to effectively translate design concepts into functional, user-friendly interfaces.
 
 ## What I Do
 
